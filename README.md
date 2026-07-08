@@ -10,6 +10,8 @@ A real-time credit card fraud detection system built for the Microsoft Summer of
 * Darshil – Frontend Development & Streaming Integration
 
 ---
+### Deployement Link on steamlit : https://smartfraudengine.streamlit.app/ 
+
 ## YT demo video : https://youtu.be/4wdmhvMtYks?si=xozCHcZSXjx0VmTX
 ## ppt for complete explanation : https://docs.google.com/presentation/d/1pcLLJMQDyhwGaVlFVqlhUxkyR3xDJLORLJT1sB988XE/edit?slide=id.p1#slide=id.p1
 
